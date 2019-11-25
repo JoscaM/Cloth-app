@@ -1,0 +1,14 @@
+.card-body.border-top  {
+ padding: 0px !important;
+}
+.d-inline.price{
+  line-height: 2;
+  vertical-align: middle;
+
+}
+.buy{
+  margin-bottom: 0px !important;
+}
+.card.col-3.text-center{
+  margin: 1em;
+}

@@ -1,0 +1,49 @@
+body{
+  margin: 0px;
+  padding: 0px;
+}
+#logo{
+  font-family: 'Dancing Script', cursive;
+  color: #4da6ff;
+  vertical-align: middle;
+}
+#navbar-item:hover{
+  color: white !important;
+}
+
+a, p, h3, span{
+  font-family: 'Dancing Script', cursive;
+}
+
+.row.carouseldiv{
+  height: 40vh !important;
+}
+.carouselimg{
+  height: 40vh !important;
+}
+.carouselExampleSlidesOnly{
+  z-index: -1;
+}
+footer{
+  position: fixed;
+  bottom: 0;
+  width: 100%
+
+}
+.container{
+  margin-top: 60px;
+  margin-bottom: 60px;
+
+}
+.fa.fa-shopping-cart{
+  font-size: 48px;
+  color: white;
+}
+.badge.badge-danger{
+  font-size: 10px;
+}
+
+.checkout{
+  width: 100px;
+  height: 100px;
+}
